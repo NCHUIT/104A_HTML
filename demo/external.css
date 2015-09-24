@@ -1,0 +1,25 @@
+body {
+    background: #AADAAA url(../img/doge.gif) no-repeat fixed 50% 0%;"
+}
+
+.spam-msg {
+    padding-left: 200px;
+    padding-right: 200px;
+    background: blue;
+    border: green solid 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+#the_cat {
+    width: 200px;
+    left: 200px;
+    top: 100px;
+    position: static;
+}
+
+.spam-msg p {
+    text-shadow: white 0px 0px;
+}
